@@ -1,21 +1,29 @@
 ### Tudo bem? Me chamo Breno Carvalheiros 👋
 
 [![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Carvalheiross Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalheiros&theme=gruvbox&size_weight=0.5&count_weight=0.5)
+
 
 ### Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="PHYTON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/Cypress-04C38E?style=for-the-badge&logo="/>
-    </div></br>
+  <img align='center' alt='Python' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
+  <img align="center" alt="Pandas" height='30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Power BI" height='30' width='30' src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+  <img align="center" alt="Looker Studio" height='30' width='30' src="https://img.icons8.com/color/48/google-looker.png" alt="google-looker"/>
+  <img align="center" alt="Excel" height='30' width='30' src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img align='center' alt='AWS' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align='center' alt='SQL' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align='center' alt='JavaScript' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align='center' alt='Cypress' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img align='center' alt='Postman' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+  
+</div></br>
 
 ### Contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://https://www.linkedin.com/in/breno-carvalheiros)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/breno-carvalheiros) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-Construindo o futuro da tecnologia, um commit de cada vez.
+![snake animation](https://github.com/<Carvalheiros>/<Carvalheiros>/blob/output/github-contribution-grid-snake2.svg)
+
+Turning data into strategic insights
 
