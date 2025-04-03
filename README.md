@@ -1,7 +1,6 @@
 ### Tudo bem? Me chamo Breno Carvalheiros 👋
 
 [![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![Carvalheiross Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalheiros&theme=gruvbox&size_weight=0.5&count_weight=0.5)
 
 ### Tecnologias que utilizo
 
