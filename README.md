@@ -1,6 +1,4 @@
-
-
-![](https://dirkjan.co/wp-content/uploads/2018/04/adobe-big-data-loaders.gif)
+<img align='center' src='https://github.com/Carvalheiros/Carvalheiros/blob/main/Data_analyst.%20Analista_de_dados.png?raw=true'>
 
 <h1 align='center'>👋 Hello World! I'm Breno Carvalheiros </h1>
 <h3 align='center'> A passionate Data Analyst from Brazil </h3>
