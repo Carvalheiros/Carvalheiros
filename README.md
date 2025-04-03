@@ -1,9 +1,9 @@
-<img align='center' alt='Banner' height='500' width='100%' src='https://github.com/Carvalheiros/Carvalheiros/blob/main/carta-grafico-de-negocios.png?raw=true'>
+<img align='center' alt='Banner' height='450' width='100%' src='https://github.com/Carvalheiros/Carvalheiros/blob/main/carta-grafico-de-negocios.png?raw=true'>
 
 <h1 align='center'>👋 Hello World! I'm Breno Carvalheiros </h1>
 
-[![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/Carvalheiros/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalheiros&theme=gruvbox&hide_progress=true)
 
 ### Tecnologias que utilizo
 
