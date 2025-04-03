@@ -1,4 +1,4 @@
-![](https://github.com/Carvalheiros/Carvalheiros/blob/main/carta-grafico-de-negocios.png?raw=true)
+<img align='center' alt='Banner' height='500' width='100%' src='https://github.com/Carvalheiros/Carvalheiros/blob/main/carta-grafico-de-negocios.png?raw=true'>
 
 ### 👋 Hello World! Me chamo Breno Carvalheiros 
 
