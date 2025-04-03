@@ -3,7 +3,7 @@
 <h1 align='center'>👋 Hello World! I'm Breno Carvalheiros </h1>
 
 [![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalheiros&theme=gruvbox&hide_progress=true)
+
 
 ### Tecnologias que utilizo
 
