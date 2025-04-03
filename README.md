@@ -1,3 +1,5 @@
+![](https://github.com/Carvalheiros/Carvalheiros/blob/main/carta-grafico-de-negocios.png?raw=true)
+
 ### 👋 Hello World! Me chamo Breno Carvalheiros 
 
 [![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
