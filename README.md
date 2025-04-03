@@ -1,6 +1,13 @@
-<img align='center' alt='Banner' height='450' width='100%' src='https://github.com/Carvalheiros/Carvalheiros/blob/main/carta-grafico-de-negocios.png?raw=true'>
+
+
+![](https://dirkjan.co/wp-content/uploads/2018/04/adobe-big-data-loaders.gif)
 
 <h1 align='center'>👋 Hello World! I'm Breno Carvalheiros </h1>
+<h3 align='center'> A passionate Data Analyst from Brazil </h3>
+
+- 👨‍💻 Visit my professional website: https://carvalheirosltda.wixsite.com/datacarv
+- 📊 Currently working at Prodepa
+- ⚡ I'm a very active person
 
 [![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/Carvalheiros/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalheiros&theme=gruvbox&hide_progress=true)
