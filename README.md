@@ -3,15 +3,21 @@
 <h1 align='center'>👋 Hello World! I'm Breno Carvalheiros </h1>
 <h3 align='center'> A passionate Data Analyst from Brazil </h3>
 
-- 👨‍💻 Visit my professional website: https://carvalheirosltda.wixsite.com/datacarv
-- 📊 Currently working at Prodepa
-- ⚡ I'm a very active person
+<n> </n>
+<p> </p>
+<n> </n>
 
+- 👨‍💻 Visit my professional website: https://carvalheirosltda.wixsite.com/datacarv
+- 💼 Currently working at Prodepa
+- 📊 Turning data into strategic insights!
+
+
+  
 [![Carvalheiros GitHub stats](https://github-readme-stats.vercel.app/api?username=Carvalheiros&show_icons=true&theme=gruvbox)](https://github.com/Carvalheiros/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalheiros&theme=gruvbox&hide_progress=true)
 
-### Tecnologias que utilizo
-
+  
+### Tech skills
 <div style="display: inline_block"><br/>
   <img align='center' alt='Python' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
   <img align="center" alt="Pandas" height='30' width='40'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
@@ -26,7 +32,7 @@
   
 </div></br>
 
-### Contatos
+### Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/breno-carvalheiros) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591981737467)
 
 <picture align="center">
@@ -34,6 +40,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carvalheiros/Carvalheiros/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carvalheiros/Carvalheiros/output/github-contribution-grid-snake.svg">
 </picture>
-
-Turning data into strategic insights
 
